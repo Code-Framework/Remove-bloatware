@@ -94,7 +94,7 @@ adb shell pm uninstall  -k --user 0 com.google.android.googlequicksearchbox
 echo -n "Google Android Auto... "
 adb shell pm uninstall  -k --user 0 com.google.android.projection.gearhead
 #echo -n "Goole Mail... "
-adb shell pm uninstall  -k --user 0 com.google.android.gm
+#adb shell pm uninstall  -k --user 0 com.google.android.gm
 echo -n "Google Music... "
 adb shell pm uninstall  -k --user 0 com.google.android.music
 echo -n "Google Play Movies... "
@@ -106,7 +106,7 @@ adb shell pm uninstall  -k --user 0 com.google.android.youtube
 echo -n "Google Duo... "
 adb shell pm uninstall  -k --user 0 com.google.android.apps.tachyon
 #echo -n "Google Maps... "
-adb shell pm uninstall  -k --user 0 com.google.android.apps.maps
+#adb shell pm uninstall  -k --user 0 com.google.android.apps.maps
 echo -n "Google Docs... "
 adb shell pm uninstall  -k --user 0 com.google.android.apps.docs
 echo -n "Google Photos... "
